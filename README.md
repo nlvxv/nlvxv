@@ -84,8 +84,3 @@
 
 <!-- Animated Divider -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/bar.gif" width="100%">
-
-<!-- Snake Contribution Graph -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nlvxv/nlvxv/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Graph">
-</p>
