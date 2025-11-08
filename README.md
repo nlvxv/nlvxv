@@ -5,7 +5,7 @@
 
 <!-- Header with Animated GIF -->
 <h1 align="center">
-  Hey there, I'm NLVX! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hey There, I'm NLVX! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <!-- Typing SVG Animation -->
