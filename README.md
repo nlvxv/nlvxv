@@ -30,10 +30,10 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently building **secure web applications** and exploring **new hacking techniques**.
-- 🌱 I’m focused on learning **Cloud Security (AWS/Azure )** and **Reverse Engineering**.
-- 👯 I’m open to collaborating on **any innovative open-source projects**.
-- 📫 How to reach me: **nlvxdev@gmail.com**
+- 🔭 I’m Currently Building **Secure Web Applications** And Exploring **New Hacking Techniques**.
+- 🌱 I’m Focused on Learning **Cloud Security (AWS/Azure )** and **Reverse Engineering**.
+- 👯 I’m Open to Collaborating on **Any Innovative Open-Source Projects**.
+- 📫 How to Reach Me: **nlvxdev@gmail.com**
 
 ---
 
